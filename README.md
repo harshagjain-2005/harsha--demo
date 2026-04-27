@@ -1,4 +1,4 @@
 # harsha--demo
 This is my first git respository.
 <br>
-Author - Harsha G jain(acharya institu of technology)
+Author - Harsha G jain(acharya institute of technology)
